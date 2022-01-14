@@ -31,4 +31,3 @@ Go to the project directory
   or
   yarn start
 ```
----
