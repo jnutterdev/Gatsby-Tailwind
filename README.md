@@ -1,13 +1,11 @@
-# 🚀 Gatsby Portfolio
+# 🚀 Gatsby Tailwind
 
-The gatsby portfolio is a tailwind-configured template, which means you won't have to add files or go through the hassle of configuring tailwind css in your project.
+The gatsby tailwind is a tailwind-configured template, which means you won't have to add files or go through the hassle of configuring tailwind css in your project.
 
 ## Installation
 
-Install my-project with npm
-
 ```bash
-  npm i gatsby-portfolio
+  git clone https://github.com/amrohan/Gatsby-Tailwind.git
 ```
 
 ## Run Locally
@@ -15,10 +13,10 @@ Install my-project with npm
 Go to the project directory
 
 ```bash
-  cd gatsby-portfolio
+  cd Gatsby-Tailwind
 ```
 
-Install dependencies
+## Install dependencies
 
 ```bash
   npm install
@@ -26,10 +24,11 @@ Install dependencies
   yarn install
 ```
 
-Start the server
+### Start the server
 
 ```bash
   npm start
   or
   yarn start
 ```
+---
