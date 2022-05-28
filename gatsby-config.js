@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://amrohan.com`,
+    siteUrl: ``,
   },
   plugins: [
     "gatsby-plugin-postcss",

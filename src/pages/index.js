@@ -1,12 +1,9 @@
-import * as React from "react";
+import React from "react"
+import Layout from "../components/Layout"
 
-// markup
-const IndexPage = () => {
+export default () => {
   return (
-    <div>
-      <h1 className="text-red-500 text-2xl text-center">Gatsby-Portfolio</h1>
-    </div>
-  );
-};
-
-export default IndexPage;
+    <Layout>
+    </Layout>
+  )
+}
